@@ -168,7 +168,7 @@ export function FloatingNav() {
                   <a href="#" className="hover:text-foreground">LinkedIn</a>
                   <a href="#" className="hover:text-foreground">Dribbble</a>
                 </div>
-                <p className="text-sm text-muted-foreground">© 2024 Jordan Lee</p>
+                <p className="text-sm text-muted-foreground">© 2026 Teddy Septiansyah</p>
               </div>
             </div>
           </DrawerContent>
