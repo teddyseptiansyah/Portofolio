@@ -95,7 +95,7 @@ export function HeroSection() {
           ref={roleRef}
           className="text-sm md:text-base uppercase tracking-[0.3em] text-muted-foreground mb-6 md:mb-8"
         >
-          Creative Technologist
+          Finance & Accounting
         </p>
 
         {/* Massive name typography */}
@@ -103,9 +103,9 @@ export function HeroSection() {
           ref={nameRef}
           className="text-display text-[15vw] md:text-[12vw] lg:text-[10vw] text-blend leading-[0.9] text-primary"
         >
-          Jordan
+          Teddy
           <br />
-          Lee
+          Septiansyah
         </h1>
 
         {/* Tagline */}
@@ -113,7 +113,7 @@ export function HeroSection() {
           ref={taglineRef}
           className="text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-xl mx-auto mt-12 md:mt-16"
         >
-          Crafting Digital Experiences
+          My Porto
         </p>
       </div>
 
