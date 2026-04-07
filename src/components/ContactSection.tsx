@@ -65,13 +65,13 @@ export function ContactSection() {
           </h2>
 
           <a
-            href="mailto:hello@jordanlee.design"
+            href="mailto:teddyseptiansyah@gmail.com"
             className="animate-in inline-flex items-center gap-4 text-xl md:text-2xl text-muted-foreground hover:text-foreground transition-colors group"
             data-cursor-hover
           >
             <Mail className="w-6 h-6" />
             <span className="relative">
-              hello@jordanlee.design
+              teddyseptiansyah@gmail.com
               <span className="absolute bottom-0 left-0 w-0 h-px bg-accent transition-all duration-500 group-hover:w-full" />
             </span>
           </a>
@@ -113,7 +113,7 @@ export function ContactSection() {
           {/* Copyright */}
           <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Jordan Lee. All rights reserved.
+              © {new Date().getFullYear()} Teddy Septiansyah. All rights reserved.
             </p>
             <p className="text-sm text-muted-foreground">
               Designed & Built with passion
